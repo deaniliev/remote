@@ -37,7 +37,7 @@ config/app.php:
 ```
 
 ```
-composer install
+composer update
 php artisan vendor:publish
 ```
 
