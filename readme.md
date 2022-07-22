@@ -10,6 +10,8 @@ Official documentation for Remote (SSH) for The Laravel Framework can be found a
 
 This repo is a fork of LaravelCollective's Remote.
 
+Added Laravel 9 support and install howto.
+
 # Installation
 
 composer.json:
