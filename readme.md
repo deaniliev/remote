@@ -13,7 +13,7 @@ composer.json:
 ```
  "require": {
     ...
-    "deanski/remote": "^6"
+    "deaniliev/remote": "^6"
  },
 ```
 
